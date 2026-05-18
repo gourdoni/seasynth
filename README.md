@@ -1,6 +1,6 @@
 # Seasynth 🎹
 
-The plan is to implement a reactive synthesis tool like Strix,
+The plan is to implement a reactive synthesis tool like [Strix](https://strix.model.in.tum.de/),
 as part of an attempt to understand reactive synthesis more deeply.
 I chose the name *Seasynth* because *sea* is a homophone of the C programming language.
 
