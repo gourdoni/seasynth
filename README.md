@@ -2,13 +2,11 @@
 
 The plan is to implement a reactive synthesis tool like Strix,
 as part of an attempt to understand reactive synthesis more deeply.
+I chose the name *Seasynth* because *sea* is a homophone of the C programming language.
 
 - [Seasynth 🎹](#seasynth)
   - [Project Plan](#project-plan)
   - [Dependencies](#dependencies)
-
-> [!NOTE]
-> I chose the name *Seasynth* because *sea* is a homophone of the C programming language.
 
 ## Project Plan
 
