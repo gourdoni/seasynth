@@ -1,0 +1,14 @@
+build/
+out/
+bin/
+lib/
+
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
